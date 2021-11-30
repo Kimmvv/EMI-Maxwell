@@ -1,3 +1,3 @@
 # EMI-Maxwell
 
-https://zenodo.org/badge/433578250.svg
+[![DOI](https://zenodo.org/badge/433578250.svg)](https://zenodo.org/badge/latestdoi/433578250)
